@@ -163,14 +163,13 @@ a,
 
 .navigation {
     display: flex; 
-    margin-right: 318px;
+   
 }
 
 .navigation-pages {
     display: flex;
     align-items: center;
-
-    
+   
 }
 
 .pages-item:not(:last-child) {
@@ -179,7 +178,7 @@ a,
 
 .contacts {
     display: flex;
-    align-items: center;
+    margin-left: auto;
 }
 
 .contacts-item:not(:last-child) {
@@ -197,7 +196,7 @@ a,
     flex-direction: column;
     align-items: center;
 
-    padding: 200px;  
+    padding: 200px 0px;  
     text-align: center;
 }
 
